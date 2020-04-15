@@ -4,7 +4,7 @@ Created by **Lorenzo Fossati** based on **[CS50x - Problem Set 0](https://cs50.h
 
 April 2020
 
-![Game Screenshot](./assets/cs50-week0-submission-v1.png)
+![Game Screenshot](./assets/cs50-week0-submission.png)
 
 A small arcade-like Scratch ([scratch.mit.edu](https://scratch.mit.edu/explore/projects/all)) driving game.
 
